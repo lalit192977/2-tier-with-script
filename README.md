@@ -25,7 +25,7 @@ This is the entry point of the automation. It performs the following:
 
 - **Clones the application repository**  
   ```bash
-  git clone https://github.com/pravinmishraaws/theepicbook.git
+  git clone https://github.com/lalit192977/theepicbook.git
 
 
 ### Installs dependencies
